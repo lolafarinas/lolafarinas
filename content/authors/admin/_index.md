@@ -17,7 +17,7 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations
 organizations:
 - name: Stanford University
-  url: ""
+  link: "http://www.upv.es"
 
 #organizations:
 #- name: Universitat Politècnica de València
