@@ -15,7 +15,7 @@ role: 'Juan de la Cierva' Postdoctoral Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: Universitat Politècnica de València
-  url: "http://www.upv.es"
+  #url: "http://www.upv.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mechanical characterization of biological materials, specially vegetal tissues and food stuff with ultrasound techniques.
