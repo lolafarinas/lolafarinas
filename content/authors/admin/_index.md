@@ -80,4 +80,4 @@ email: ""
 #- Visitors
 ---
 
-Lola Fariñas is a postdoctoral research fellow in the Department of Food Technology at Universitat Politècnica de València. Her research interest is on mechanical characterization of biomaterials combining novel ultrasonic techniques with traditional ones, and relating those with interesting properties within the sample under study. In other words, I try to find the way to obtain as much information as possible being as less non-invasive and non-destructive as possible. 
+Lola Fariñas is a postdoctoral research fellow in the Department of Food Technology at Universitat Politècnica de València. Her research interest is on mechanical characterization of biological materials combining novel ultrasonic techniques with traditional ones, and relating those with interesting properties within the sample under study. In other words, I try to find the way to obtain as much information as possible being as less non-invasive and non-destructive as possible. 
