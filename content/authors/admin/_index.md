@@ -10,8 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-#role: 'Juan de la Cierva' Postdoctoral Research Fellow
-role: Professor of Artificial Intelligence
+#role: Juan de la Cierva Postdoctoral Research Fellow
+#role: Professor of Artificial Intelligence
 
 
 # Organizations/Affiliations
