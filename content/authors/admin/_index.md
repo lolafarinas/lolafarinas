@@ -15,7 +15,7 @@ role: 'Juan de la Cierva' Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Universitat Politècnica de València
+- name: Universitat Politècnica de València (UPV)
   link: "http://www.upv.es"
 
 
