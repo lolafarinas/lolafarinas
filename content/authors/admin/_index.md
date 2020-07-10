@@ -10,18 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-#role: 'Juan de la Cierva' Postdoctoral Research Fellow
-role: Professor of Artificial Intelligence
+role: 'Juan de la Cierva' Postdoctoral Research Fellow
 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universitat Politècnica de València
   link: "http://www.upv.es"
 
-#organizations:
-#- name: Universitat Politècnica de València
-#  url: "http://www.upv.es"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include mechanical characterization of biological materials, specially vegetal tissues and food stuff with ultrasound techniques.
@@ -33,33 +29,43 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Biomedical Engineering
+    institution: Universidad Politécnica de Madrid (UPM)
+    year: 2016
+  - course: MSc in Biomedical Engineering
+    institution: Universidad Politécnica de Madrid (UPM)
+    year: 2011
+  - course: BSc in Telecommunication Engineering
+    institution: University of Alcalá (UAH)
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:lola.farinas@gmail.com".
+#  link: '#contact'  # For a direct email link, use "mailto:lola.farinas@gmail.com".
+  link: "mailto:lola.farinas@gmail.com"
+      
+- icon = "linkedin"
+  icon_pack = "fa"
+  link = "https://www.linkedin.com/in/mdfarinas/?locale=en_US"
+
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lolafarinas
+  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=RVHxAjEAAAAJ&hl
+  
 - icon: github
   icon_pack: fab
   link: https://github.com/lolafarinas
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
