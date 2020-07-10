@@ -1,9 +1,13 @@
 ++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "education"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 
 title = "Education"
 subtitle = ""
@@ -41,68 +45,5 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = "2020-07-31"
   description = """Exploring new ultrasonic techniques for monitoring mechanical changes at early stages of food digestion"""
-  
- [[experience]]
-  title = "Postdoctoral Research Fellow"
-  company = "Universitat Politècnica de Valencia (UPV)"
-  company_url = "http://www.upv.es"
-  location = "Valencia (Spain)"
-  date_start = "2018-07-01"
-  date_end = "2019-08-31"
-  description = """Studying correlation between textural and ultrasonic properties in food stuff"""
-  
- [[experience]]
-  title = "Data Scientist"
-  company = "WooM Fertility"
-  company_url = "https://woomfertility.com"
-  location = "Madrid (Spain)"
-  date_start = "2018-02-01"
-  date_end = "2018-06-30"
-  description = """Fertility and health habbits data analysis from WooM app users, trying to bring new and useful insights for women looking for getting pregnant"""
-  
- [[experience]]
-  title = "Postdoctoral Researcher"
-  company = "Spanish National Research Council (ITEFI-CSIC)"
-  company_url = "https://www.csic.es"
-  location = "Madrid (Spain)"
-  date_start = "2017-01-01"
-  date_end = "2018-06-30"
-  description = """"""
-  
- [[experience]]
-  title = "Visiting Postdoctoral Research Fellow"
-  company = "Harvard University"
-  company_url = "https://www.harvard.edu"
-  location = "Cambridge (MA, USA)"
-  date_start = "2016-08-01"
-  date_end = "2019-01-01"
-  description = """"""
-  
- [[experience]]
-  title = "Researcher"
-  company = "Spanish National Research Council (ITEFI-CSIC)"
-  company_url = "https://www.csic.es"
-  location = "Madrid (Spain)"
-  date_start = "2012-01-17"
-  date_end = "2013-01-16"
-  description = """Researcher in the project TARGET (“Intelligent and green Technologies for the generation of  structures of composite materials"""
-  
- [[experience]]
-  title = "Researcher"
-  company = "Universidad Politécnica de Madrid (CTB-UPM)"
-  company_url = "http://www.ctb.upm.es"
-  location = "Madrid (Spain)"
-  date_start = "2010-03-01"
-  date_end = "2012-01-01"
-  description = """"""
-  
- [[experience]]
-  title = "Intern"
-  company = "Telefónica r+d"
-  company_url = "http://www.tid.es"
-  location = "Madrid (Spain)"
-  date_start = "2009-12-01"
-  date_end = "2010-01-01"
-  description = """Intern at an European Project"""
 
 +++
