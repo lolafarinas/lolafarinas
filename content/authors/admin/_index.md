@@ -12,10 +12,9 @@ superuser: true
 # Role/position
 role: 'Juan de la Cierva' Postdoctoral Research Fellow
 
-
 # Organizations/Affiliations
 organizations:
-- name: Universitat Politecnica de Valencia (UPV)
+- name: Universitat Politecnica de Valencia
   link: "http://www.upv.es"
 
 
