@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Education"
+title = "Accomplishments & Awards"
 subtitle = ""
 
 # Date format
@@ -23,29 +23,29 @@ date_format = "Jan 2006"
   organization_url = "https://www.upm.es"
   title = "Doctor of Philosophy in Biomedical Engineering with honors"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = ""
   date_start = "2013-02-01"
   date_end = "2016-07-21"
   description = ""
 
 [[item]]
-  organization = ""
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "The University of Glasgow"
+  organization_url = "https://www.gla.ac.uk"
+  title = "Visiting Student"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-08-20"
+  date_end = "2016-01-01"
+  description = "Short Stay funded by the Spanish Government (EEBB FPI)"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "The University of Glasgow"
+  organization_url = "https://www.gla.ac.uk"
+  title = "Visiting Student"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2015-08-20"
+  date_end = "2016-01-01"
+  description = "Short Stay funded by the Spanish Government (EEBB FPI)"
 
 +++
