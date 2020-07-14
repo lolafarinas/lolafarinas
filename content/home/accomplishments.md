@@ -36,16 +36,16 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-08-20"
   date_end = "2016-01-01"
-  description = "Short Stay funded by the Spanish Government (EEBB FPI)"
+  description = "Short research stay funded by the Spanish Government (EEBB FPI)"
   
 [[item]]
-  organization = "The University of Glasgow"
-  organization_url = "https://www.gla.ac.uk"
+  organization = "Massachusetts Institute of Technology (MIT)"
+  organization_url = "https://www.mit.edu/"
   title = "Visiting Student"
   url = ""
   certificate_url = ""
-  date_start = "2015-08-20"
-  date_end = "2016-01-01"
-  description = "Short Stay funded by the Spanish Government (EEBB FPI)"
-
+  date_start = "2014-08-20"
+  date_end = "2015-01-01"
+  description = "Short research staty tay funded by the Spanish Government (EEBB FPI)"
+  
 +++
