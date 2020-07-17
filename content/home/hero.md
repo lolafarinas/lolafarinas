@@ -8,7 +8,9 @@ weight = 10  # Order that this section will appear.
 title = "Interested in finding relationships between things that apparently haven't any"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "lola_sfo.jpg"
+#hero_media = "lola_sfo.jpg"
+hero_media = "lola_MIT.jpg"
+
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -50,6 +52,5 @@ hero_media = "lola_sfo.jpg"
 
 **#Ultrasound #Physics #Plants #FoodTech**
 
-Build **Anything** with Widgets
+#Build **Anything** with Widgets
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
