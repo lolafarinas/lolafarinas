@@ -59,6 +59,10 @@ social:
   icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:lola.farinas@gmail.com".
   link: "mailto:lola.farinas@gmail.com"
+ 
+- icon: skype
+  icon_pack: fab
+  link: @lola.farinas
       
 - icon: linkedin
   icon_pack: fab
@@ -70,6 +74,10 @@ social:
   
 - icon: orcid
   icon_pack: ai
+  link: https://orcid.org/0000-0001-6370-1283
+  
+- icon: mendeley
+  icon_pack: fab
   link: https://orcid.org/0000-0001-6370-1283
   
 - icon: github
