@@ -48,7 +48,7 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:lola.farinas@gmail.com".
   link: "mailto:lola.farinas@gmail.com"
       
-- icon: "linkedin"
+- icon: linkedin
   icon_pack: fa
   link: "https://www.linkedin.com/in/mdfarinas/?locale=en_US"
 
