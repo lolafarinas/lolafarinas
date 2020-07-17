@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Interested in finding relationships between things that apparently haven't any"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "lola_sfo.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
