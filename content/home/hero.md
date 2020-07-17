@@ -25,8 +25,8 @@ hero_media = "Lola-Nobel.png"
   # Background gradient.
  # gradient_start = "#4be388"
  # gradient_end = "#4be388"
-  gradient_start = " #4bb3e3"
-  gradient_end = " #4bb3e3"
+  gradient_start = " #4be3e3"
+  gradient_end = " #4be3e3"
   
  
   # Background image.
