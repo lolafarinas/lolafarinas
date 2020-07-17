@@ -23,9 +23,12 @@ hero_media = "Lola-Nobel.png"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4be388"
-  gradient_end = "#4be388"
+ # gradient_start = "#4be388"
+ # gradient_end = "#4be388"
+  gradient_start = " #4bb3e3"
+  gradient_end = " #4bb3e3"
   
+ 
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
