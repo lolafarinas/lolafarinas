@@ -46,6 +46,10 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lolafarinas
+ 
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@lola.farinas
   
 - icon: goodreads
   icon_pack: fab
