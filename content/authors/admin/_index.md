@@ -62,7 +62,7 @@ social:
  
 - icon: skype
   icon_pack: fab
-  link: @lola.farinas
+  link: "https://www.linkedin.com/in/mdfarinas/?locale=en_US"
       
 - icon: linkedin
   icon_pack: fab
