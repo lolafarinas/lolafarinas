@@ -49,7 +49,7 @@ social:
   link: "mailto:lola.farinas@gmail.com"
       
 - icon: linkedin
-  icon_pack: fa
+  icon_pack: fab
   link: "https://www.linkedin.com/in/mdfarinas/?locale=en_US"
 
 - icon: twitter
