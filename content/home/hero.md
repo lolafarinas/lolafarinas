@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Interested in finding relationships between things that apparently haven't any"
+title = "Lola Fariñas, PhD."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "lola_sfo.jpg"
@@ -40,17 +40,17 @@ hero_media = "lola_MIT.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  label = "Get to know me"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  label = "CV"
 
 +++
 
-**#Ultrasound #Physics #Plants #FoodTech**
+**"Interested in finding relationships between things that apparently haven't any"**
 
-#Build **Anything** with Widgets
+*#Ultrasound #Physics #Plants #FoodTech*
 
