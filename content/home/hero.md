@@ -9,7 +9,8 @@ title = "Lola Fariñas, PhD."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "lola_sfo.jpg"
-hero_media = "lola_MIT.jpg"
+#hero_media = "lola_MIT.jpg"
+hero_media = "Lola-Nobel.png"
 
 
 [design.background]
@@ -40,13 +41,13 @@ hero_media = "lola_MIT.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get to know me"
+  label = "CV"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
-  label = "CV"
+  label = "Get to know me"
 
 +++
 
