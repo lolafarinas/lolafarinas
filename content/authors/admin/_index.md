@@ -43,6 +43,14 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/lolafarinas
+  
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/user/show/4734228-lola-garlochi
+  
 - icon: envelope
   icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:lola.farinas@gmail.com".
@@ -52,10 +60,6 @@ social:
   icon_pack: fab
   link: "https://www.linkedin.com/in/mdfarinas/?locale=en_US"
 
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/lolafarinas
-  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?user=RVHxAjEAAAAJ&hl
