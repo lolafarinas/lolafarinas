@@ -56,5 +56,5 @@ hero_media = "Lola-Nobel.png"
 
 **"Interested in finding relationships between things that apparently haven't any"**
 
-*#Ultrasound #Physics #Plants #FoodTech*
+*#Engineering #Physics #Ultrasound #BiologicalMaterials #Plants #FoodTech*
 
