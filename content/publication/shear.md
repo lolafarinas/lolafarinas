@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Shear waves
 
 # View.
 #   1 = List
