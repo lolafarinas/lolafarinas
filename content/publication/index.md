@@ -1,13 +1,19 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+@inproceedings{Farinas2013,
+address = {Prague},
+author = {Farinas, M. D. and {Gomez Alvarez-Arenas}, T. E. and {Cuevas Aguado}, E. and {Garcia Merino}, M.},
+booktitle = {2013 IEEE International Ultrasonics Symposium (IUS)},
+doi = {10.1109/ULTSYM.2013.0405},
+file = {:Users/lolafarinas/Documents/Scientific Articles/Farinas et al/2013 IEEE International Ultrasonics Symposium (IUS)/Farinas et al. - 2013 - Non-contact ultrasonic inspection of CFRP prepregs for aeronautical applications during lay-up fabrication.pdf:pdf},
+isbn = {978-1-4673-5686-2},
+keywords = {non},
+month = {jul},
+pages = {1590--1593},
+publisher = {IEEE},
+title = {{Non-contact ultrasonic inspection of CFRP prepregs for aeronautical applications during lay-up fabrication}},
+url = {http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6725052 http://ieeexplore.ieee.org/document/6725052/},
+year = {2013}
+}
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
